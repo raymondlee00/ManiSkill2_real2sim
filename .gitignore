@@ -39,6 +39,3 @@ videos/
 # testing
 .coverage*
 htmlcov/
-
-mani_skill2_real2sim/assets/descriptions/g1_description
-mani_skill2_real2sim/assets/descriptions/allegro_hand_description
